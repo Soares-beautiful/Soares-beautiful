@@ -1,15 +1,57 @@
-### Olá! Eu sou o João Soares 👋
+# 👨‍💻 João Soares
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
+**`Developer in Training`**  
 
-![João Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=Soares-beautiful&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soares-beautiful&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+Olá, sou o João Soares e tenho 12 anos e gosto de compartilhar meu aprendizado em programação.
+<p align="left">
+    <a href="https://www.youtube.com/@RicardoMartinsBarros">
+        <img 
+            alt="Meu YouTube" 
+            title="Visite meu canal"
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/riccardo8bits">
+        <img 
+            alt="Meu GitHub" 
+            title="Meus projetos"
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/ricardo-martins-barros-barrros-91953b372/">
+        <img 
+            alt="Meu LinkedIn" 
+            title="Meu perfil profissional"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
-### Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block"></br>
+### 🛠 Stack Principal
 
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img 
+    align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="40px" 
+    style="padding-right:15px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
 
-</div>
+<br/><br/><br/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=dark&locale=pt-br&hide_border=true&bg_color=0d1117" 
+  />
+  <img 
+    height="165em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&theme=dark&layout=compact&langs_count=4&hide_border=true&bg_color=0d1117" 
+  />
+</p>
