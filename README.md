@@ -2,7 +2,7 @@
 
 **`Developer in Training`**  
 
-Olá, sou o João Soares e tenho 12 anos e gosto de compartilhar meu aprendizado em programação.
+Olá, sou o João Soares e tenho 12 anos e sou um garoto de programa
 <p align="left">
     <a href="https://www.youtube.com/@RicardoMartinsBarros">
         <img 
