@@ -2,7 +2,7 @@
 
 **`Developer in Training`**  
 
-Olá, sou o João Soares tenho 12 anos e sou um garoto de programas
+Rei das mulheres mais velhas (40+)
 <p align="left">
     <a href="https://www.youtube.com/@RicardoMartinsBarros">
         <img 
